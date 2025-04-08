@@ -89,7 +89,6 @@ Before running the scripts, make sure you have these files in the same directory
 - Use only on systems you have permission to test
 - Respect privacy and legal boundaries
 - The tool may not work on all camera models
-- Some features require root access
 
 ## Troubleshooting
 
@@ -108,4 +107,4 @@ This tool is provided for educational and security testing purposes only. The de
 ## Support
 
 For support or questions, please contact:
-- Telegram: @SlickMercy 
+- Telegram: @CCTVAPP
