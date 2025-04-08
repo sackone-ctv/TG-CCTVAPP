@@ -4,7 +4,7 @@ A powerful camera scanning and access tool for security testing purposes.
 
 ## Requirements
 
-- Termux (Android)
+- Termux (Android) - https://f-droid.org/tr/packages/com.termux/
 - Python 3.x
 - Internet connection
 
