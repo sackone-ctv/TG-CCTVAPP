@@ -107,4 +107,4 @@ This tool is provided for educational and security testing purposes only. The de
 ## Support
 
 For support or questions, please contact:
-- Telegram: @CCTVAPP
+- Telegram: http://t.me/cctvapp1
