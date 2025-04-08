@@ -1,4 +1,4 @@
-# CamHack Tool
+# CamHack Tool For Education
 
 A powerful camera scanning and access tool for security testing purposes.
 
