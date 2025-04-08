@@ -15,7 +15,7 @@ def mostrar_menu():
     os.system('cls' if os.name == 'nt' else 'clear')
 
     # Display the logo
-    logo = text2art("Your Logo")  # Replace "Your Logo" with your own text
+    logo = text2art("TG-CCTVAPP1")
     print(Fore.CYAN + logo)
 
     # Menu options with color
